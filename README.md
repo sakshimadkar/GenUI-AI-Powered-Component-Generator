@@ -4,12 +4,13 @@ GenUI is an advanced AI-powered platform that allows developers to generate high
 
 ## Features:
 
--AI-based component generation
--Live code editor with syntax highlighting
--Real-time preview rendering
--Copy & download generated code
--Responsive modern UI
--Dark-themed professional interface
+-AI-based component generation.
+-Live code editor with syntax highlighting.
+-Real-time preview rendering.
+-Copy & download generated code.
+-Responsive modern UI.
+-Dark-themed professional interface.
+-Made for the Developers to use in less time.
 
 🛠 Tech Stack:
 React.js • Tailwind CSS • Monaco Editor • AI API • React Router
