@@ -1,12 +1,52 @@
-# React + Vite
+# 🚀 GenUI – AI Component Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GenUI is a modern AI-powered web application that generates beautiful UI components from simple text descriptions.  
+Just describe your component, choose a framework, and GenUI will generate the code instantly with live preview.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 AI Component Generator
+- 🧩 Supports Multiple Frameworks:
+  - HTML + CSS
+  - HTML + Tailwind CSS
+  - HTML + Tailwind + Bootstrap
+- 👀 Live Preview Panel
+- 📝 Built-in Code Editor
+- 📋 Copy Generated Code
+- 🔐 Authentication System (Login / Register)
+- 🌙 Modern Dark UI Design
+- ⚡ Fast Development with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Screens Included
+
+- Home Page (AI Component Generator)
+- Login Page
+- Register Page
+- Code & Preview Panel
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap 5
+- JavaScript 
+- Vite
+
+### Backend (if connected)
+- Node.js
+- Express.js
+- OpenAI API (for AI generation)
+
+
+## Example Prompt
+Build a restaurant homepage component with modern touch and attractive UI.
+Name for restaurant as Taj Mahal and location Pune.
+
+
